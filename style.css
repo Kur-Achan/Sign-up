@@ -1,0 +1,48 @@
+#form{
+    border-left: solid 2px grey;
+    width: 30%;
+    padding-left:  50px;
+    margin: 0 auto;
+
+  }
+  .input{
+   padding: 12px 16px;
+   width: 75%;
+   border-radius: 5px;
+   border:solid 1px;
+
+
+  }
+
+  button{
+    padding: 8px 200px;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    background-color:purple;
+  }
+
+  #image{
+   margin-left: 30%;
+
+  }
+
+  
+  #Container{
+    border: none;
+    padding-top: 100px;
+    display: flex;
+  }
+
+  .Name{
+    display: inline-block;width: 36%;
+  }
+  .sign in pic{
+    padding: right 50px;px;
+  }
+  h1{
+    color: purple;
+    text-align: center;
+  }
+
+
